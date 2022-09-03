@@ -8,6 +8,7 @@
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
 @import "components/user-component.css";
+@import "components/badge.css";
 
 /* Screens */
 @import "screen/login.css";
@@ -17,4 +18,7 @@ body {
   height: 1000vh;
   font-family: "Nanum Gothic", sans-serif;
   color: #2e363e;
+}
+.main-screen {
+  padding: 0px var(--horizontal-space);
 }
