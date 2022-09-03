@@ -5,10 +5,12 @@
 
 /* Components */
 @import "components/status-bar.css";
+@import "components/nav-bar.css";
 
 /* Screens */
 @import "screen/login.css";
 
 body {
   font-family: "Nanum Gothic", sans-serif;
+  height: 1000vh;
 }
