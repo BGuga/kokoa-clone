@@ -9,3 +9,11 @@
   color: white;
   font-weight: 600;
 }
+
+.smallbadge {
+  display: block;
+  height: 4px;
+  width: 4px;
+  border-radius: 50px;
+  background-color: tomato;
+}

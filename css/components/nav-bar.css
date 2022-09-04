@@ -24,11 +24,6 @@
 }
 
 .nav__elipsupdata {
-  display: block;
-  height: 4px;
-  width: 4px;
-  border-radius: 50px;
-  background-color: tomato;
   position: absolute;
   bottom: 25px;
   left: 27px;

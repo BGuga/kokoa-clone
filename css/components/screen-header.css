@@ -12,6 +12,19 @@
   font-weight: 600;
 }
 
+.screen-header__icons {
+  display: flex;
+}
+
 .screen-header__icons span {
+  display: block;
+  position: relative;
+  height: inherit;
   margin-left: 25px;
+}
+
+.header-smallbadge {
+  position: absolute;
+  left: 20px;
+  bottom: 18px;
 }
