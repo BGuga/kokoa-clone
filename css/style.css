@@ -18,9 +18,9 @@
 @import "screen/find.css";
 @import "screen/more.css";
 @import "screen/settings.css";
+@import "screen/chat.css";
 
 body {
-  height: 1000vh;
   font-family: "Nanum Gothic", sans-serif;
   color: #2e363e;
 }
